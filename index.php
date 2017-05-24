@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html>
+
+
+
 <body>
 
 <h1>SAS Inventory Grid</h1>
@@ -11,9 +14,10 @@
 
 <tr>
 	<td>SAS Inventory Tag</td>
-	<td align="center"><input type="text" name="tag" size="30" /></td>
+	<td align="center"><input type="text" name="tag"></td>
+	<td align = "center"><input type = "Submit" name = "Search" value = "Search"></td>
 </tr>
-
-
+</table>
+</form>
 </body>
 </html>
